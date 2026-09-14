@@ -13,11 +13,3 @@ permalink: /publications/
 
 {% bibliography --query @unpublished %}
 
-<h2>Refereed Journal Articles</h2>
-
-{% bibliography --query @article %}
-
-<h2>Refereed Conference Proceedings</h2>
-
-{% bibliography --query @inproceedings %}
-</div>
