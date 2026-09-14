@@ -5,6 +5,7 @@ layout: page
 permalink: /talks/
 ---
 
+
 # Talks
 
 ## Upcoming Talks
