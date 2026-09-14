@@ -11,9 +11,9 @@ photo: headshot.jpg  # place your photo in images/
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: ""
+  github: ""
+  researchgate: ""
   orcid: ""
   twitter: ""
   linkedin: "https://www.linkedin.com/in/andrea-piccirilli-39559a339/"
