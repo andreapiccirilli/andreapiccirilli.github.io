@@ -11,6 +11,5 @@ permalink: /talks/
 {% include talk.html talk=talk %}
 {% endfor %}
 {% else %}
-
 <p>No talks listed yet.</p>
 {% endif %}
