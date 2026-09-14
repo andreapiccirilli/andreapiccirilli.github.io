@@ -2,7 +2,7 @@
 
 title: "Talks"
 layout: page
-permalink: /talk/
+permalink: /talks/
 ------------------
 
 # Talks
