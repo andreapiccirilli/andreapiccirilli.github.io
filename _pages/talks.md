@@ -26,7 +26,3 @@ September 14, 2026
 **Title of Another Talk**
 Conference / Institution, City, Country
 November 20, 2025
-
-**My Conference Presentation**
-Conference / Institution, City, Country
-March 12, 2025
