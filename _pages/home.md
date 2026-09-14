@@ -42,7 +42,5 @@ Research in theoretical physics helps us to make predictions about how the unive
 
 ## About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am a PhD candidate in Mathematics at the Chair of Dynamical Systems of University of Neuchâtel, under the supervision of Felix Schlenk. 
+I obtained a Master's degree in Pure Mathematics at ETH Zurich, graduating with distinction in September 2025. Prior to that, I obtained a Bachelor's degree in Mathematics also at ETH in 2023.
