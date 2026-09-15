@@ -18,6 +18,6 @@ October 22, 2026
 
 **Exotic Lagrangian Tori in the Three-Dimensional Quadric**
 Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland
-September 14, 2026
+September 28, 2026
 
 ## Past Talks
