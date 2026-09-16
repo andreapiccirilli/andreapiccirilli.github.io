@@ -1,6 +1,6 @@
 ---
 
-title: "Talks"
+title: "Talks and Conferences"
 layout: page
 permalink: /talks/
 ---
@@ -21,3 +21,13 @@ Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland
 September 28, 2026
 
 ## Past Talks
+
+## Conferences Attended
+
+**Octav Cornea's birthday conference**
+ETH Zurich, Zurich, Switzerland
+June, 2026
+
+**Kai Cieliebak's birthday conference**
+University of Augsburg, Augsburg, Germany
+24-28 August, 2026
