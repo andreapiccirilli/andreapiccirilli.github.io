@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calabi–Yau Manifolds and Topological Strings"
-date: 2026-09-17
+date: 2026-09-16
 ---
 
 String theory starts from a simple change of perspective: instead of taking point particles as the fundamental objects of the theory, one considers one-dimensional objects — strings. As a string propagates through spacetime, it sweeps out a two-dimensional surface, called its **worldsheet**.
