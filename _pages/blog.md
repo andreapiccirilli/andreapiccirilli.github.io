@@ -21,13 +21,3 @@ permalink: /blog/
 {% else %}
 <p class="text-muted">No blog posts yet.</p>
 {% endif %}
-
-From the viewpoint of topological strings, however, they are not unrelated constructions.
-
-Closed worldsheets lead to closed-string invariants and Gromov–Witten theory. Worldsheets with boundary lead to Lagrangian boundary conditions and Floer theory. Polygons encode interactions of open strings, and organizing all possible boundary conditions naturally leads to a category.
-
-The physics does not replace the mathematics — making any of these statements precise requires substantial work — but it provides a remarkably coherent picture of why these structures should exist in the first place.
-
-And mirror symmetry goes one step further: it tells us that the symplectic geometry encoded by the A-model should have an entirely different description in terms of the complex and algebraic geometry of another Calabi–Yau manifold.
-
-That is a rather extraordinary amount of geometry to come from studying the ways a string can sweep out a surface.
