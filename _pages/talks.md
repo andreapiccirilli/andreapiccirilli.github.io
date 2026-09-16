@@ -2,7 +2,7 @@
 
 title: "Talks and Conferences"
 layout: page
-permalink: /talks/
+permalink: /talks and conferences/
 ---
 
 
