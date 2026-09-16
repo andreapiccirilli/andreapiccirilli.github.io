@@ -17,9 +17,9 @@ In this post I want to sketch this picture, starting from Calabi–Yau geometry 
 
 There are several equivalent, or nearly equivalent depending on the hypotheses, ways of introducing Calabi–Yau manifolds. For our purposes, let \(X\) be a compact Kähler manifold of complex dimension \(n\) with trivial canonical bundle
 
-\[
+$$
 K_X = \Lambda^n T^{*1,0}X \cong \mathcal O_X.
-\]
+$$
 
 Equivalently, \(X\) admits a nowhere-vanishing holomorphic \(n\)-form
 
