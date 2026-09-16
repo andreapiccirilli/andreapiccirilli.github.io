@@ -1,5 +1,5 @@
-
 ---
+layout: post
 title: "Calabi–Yau Manifolds and Topological Strings"
 date: 2026-09-17
 ---
