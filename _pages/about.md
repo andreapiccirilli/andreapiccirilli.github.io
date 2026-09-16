@@ -12,6 +12,6 @@ I obtained a Master's degree in Pure Mathematics at ETH Zurich, graduating with 
 
 ## Education
 
-- **2025–present** — PhD in Mathematics, University of Neuchâtel, Switzerland
+- **2026–present** — PhD in Mathematics, University of Neuchâtel, Switzerland
 - **2025** — MSc in Pure Mathematics, ETH Zürich, Switzerland — graduated with distinction
 - **2023** — BSc in Mathematics, ETH Zürich, Switzerland
