@@ -24,10 +24,10 @@ September 28, 2026
 
 ## Conferences Attended
 
-**Octav Cornea's birthday conference**
+**Symplectic Topology, Hamiltonian Dynamics, and Persistence Structures. A conference in honour of Octav Cornea**
 ETH Zurich, Zurich, Switzerland
 June, 2026
 
-**Kai Cieliebak's birthday conference**
+**Symplectic Topology, a Conference in Honor of Kai Cieliebak**
 University of Augsburg, Augsburg, Germany
 24-28 August, 2026
