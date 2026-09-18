@@ -26,7 +26,7 @@ September 28, 2026
 
 **Symplectic Topology, Hamiltonian Dynamics, and Persistence Structures. A conference in honour of Octav Cornea**
 ETH Zurich, Zurich, Switzerland
-June, 2026
+15-19 June, 2026
 
 **Symplectic Topology, a Conference in Honor of Kai Cieliebak**
 University of Augsburg, Augsburg, Germany
