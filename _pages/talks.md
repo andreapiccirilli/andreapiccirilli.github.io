@@ -22,6 +22,12 @@ September 28, 2026
 
 ## Past Talks
 
+## Upcoming Conferences
+
+**Contemporary Topics in Hamiltonian Dynamics**
+Les Diablerets, Switzerland
+27 September - 2 October 2026
+
 ## Conferences Attended
 
 **Symplectic Topology, a Conference in Honor of Kai Cieliebak**
