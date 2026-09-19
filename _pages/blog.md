@@ -7,9 +7,9 @@ permalink: /blog/
 # Blog
 
 Welcome to the blog section of my website! Here I plan to discuss interesting mathematics and phyiscs, which may or may not be related to my research. 
-I would also like some introductive posts and try to make some concepts of my research as accessible as possible to non-mathematicians. 
+I would also like to have some introductive posts, where I'll try to make some concepts of my research as accessible as possible to non-mathematicians. 
 
-I am doing this in my free time, therefore I expect I won't have any kind of regualarity. 
+I am doing this in my free time, therefore I don't expect to have any kind of regualarity with new posts. 
 
 
 {% if site.posts.size > 0 %}
