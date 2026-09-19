@@ -8,7 +8,8 @@ permalink: /
 
 I am a PhD candidate in Mathematics at the Chair of Dynamical Systems of University of Neuchâtel, under the supervision of Felix Schlenk. 
 
-Prior to that, I obtained a Master's degree in Pure Mathematics at ETH Zurich in September 2025, and a Bachelor's degree in Mathematics also at ETH in 2023.
+My main research area is symplectic topology, a branch of mathematics at the intersection of algebraic geometry, differential geometry and mathematical physics.
+You can find more details on the Research part of the website.
 
 # Education
 
