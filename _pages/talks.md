@@ -13,24 +13,26 @@ permalink: /talks and conferences/
 ### 2026
 
 **From Geometry to Algebra: Lagrangian Floer Theory**
-CUSO Graduate Colloquium, Brig, Switzerland
+CUSO Graduate Colloquium, Brig, Switzerland, 
 October 22, 2026
 
 
 ## Past Talks
 
 **Exotic Lagrangian Tori in the Three-Dimensional Quadric**
-Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland
+Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland, 
 September 28, 2026
 
 
 ## Upcoming Conferences
 
+
+## Conferences Attended
+
 **Contemporary Topics in Hamiltonian Dynamics**
 Les Diablerets, Switzerland
 27 September - 2 October 2026
 
-## Conferences Attended
 
 **Symplectic Topology, a Conference in Honor of Kai Cieliebak**
 University of Augsburg, Augsburg, Germany
