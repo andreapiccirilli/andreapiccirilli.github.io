@@ -16,11 +16,13 @@ permalink: /talks and conferences/
 CUSO Graduate Colloquium, Brig, Switzerland
 October 22, 2026
 
+
+## Past Talks
+
 **Exotic Lagrangian Tori in the Three-Dimensional Quadric**
 Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland
 September 28, 2026
 
-## Past Talks
 
 ## Upcoming Conferences
 
