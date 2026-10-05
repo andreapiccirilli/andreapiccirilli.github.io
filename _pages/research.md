@@ -15,17 +15,11 @@ permalink: /research/
 </div>
 </div>
 
-<div class="research-card">
-<div class="research-body">
-<h2 class="research-title">Lagrangian Topology</h2>
-<p class="research-desc">My research interests include the topology and geometry of Lagrangian submanifolds in symplectic manifolds. In particular, I am interested in questions concerning the construction and classification of Lagrangian embeddings, their behavior under Hamiltonian isotopy, and the distinction between different Lagrangian isotopy classes.</p>
-</div>
-</div>
 
 <div class="research-card">
 <div class="research-body">
 <h2 class="research-title">Algebraic Geometry and Homological Mirror Symmetry</h2>
-<p class="research-desc">I am interested in the connections between symplectic topology and algebraic geometry arising from mirror symmetry. In particular, Lagrangian Floer theory and Fukaya categories provide a bridge between the symplectic geometry of a manifold and algebraic structures associated with its mirror. I am interested in how these ideas can be used to study Lagrangian submanifolds and to relate geometric questions in symplectic topology to their algebraic counterparts.</p>
+<p class="research-desc">Mirror symmetry provides a strong connections between the symplectic topology of a symplectic manifold and the algebraic geometry of its mirror. I am interested in how these ideas can be used to study Lagrangian submanifolds and to relate geometric questions in symplectic topology to their algebraic counterparts.</p>
 </div>
 </div>
 
