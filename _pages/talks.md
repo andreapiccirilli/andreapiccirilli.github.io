@@ -26,6 +26,17 @@ October 15, 2026
 Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland, 
 September 28, 2026
 
+**An Introduction to Gauge/Gravity Duality**, 
+Zurich Undergraduate Colloquium in Computational Sciences, Mathematics and Physics (ZUCCMAP), 
+ETH Zurich, Switzerland,
+April 2025
+
+
+**Deformation Quantization**
+ZUCCMAP, 
+ETH Zurich, Switzerland,
+December 2024
+
 
 ## Upcoming Conferences
 
