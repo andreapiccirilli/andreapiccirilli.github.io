@@ -16,6 +16,9 @@ permalink: /talks and conferences/
 CUSO Graduate Colloquium, Brig, Switzerland, 
 October 22, 2026
 
+**Closed- and Open-string Schubert calculus via quaternionic Lagrangians**
+University of Neuchâtel, Switzerland, 
+October 15, 2026
 
 ## Past Talks
 
