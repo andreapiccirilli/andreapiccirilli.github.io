@@ -8,9 +8,8 @@ permalink: /talks and conferences/
 
 # Talks
 
-## Upcoming Talks
+### Upcoming Talks
 
-### 2026
 
 **From Geometry to Algebra: Lagrangian Floer Theory**
 CUSO Graduate Colloquium, Brig, Switzerland, 
@@ -20,7 +19,7 @@ October 22, 2026
 University of Neuchâtel, Switzerland, 
 October 15, 2026
 
-## Past Talks
+### Past Talks
 
 **Exotic Lagrangian Tori in the Three-Dimensional Quadric**
 Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland, 
@@ -37,11 +36,12 @@ ZUCCMAP,
 ETH Zurich, Switzerland,
 December 2024
 
+# Conferences
 
-## Upcoming Conferences
+### Upcoming Conferences
 
 
-## Conferences Attended
+### Conferences Attended
 
 **Contemporary Topics in Hamiltonian Dynamics**
 Les Diablerets, Switzerland
