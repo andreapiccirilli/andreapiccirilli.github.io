@@ -21,9 +21,14 @@ October 15, 2026
 
 ### Past Talks
 
-**Exotic Lagrangian Tori in the Three-Dimensional Quadric**
+**Exotic Lagrangian Tori in the Three-Dimensional Quadric**,
 Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland, 
 September 28, 2026
+
+**On Lagrangians of Oakley-Usher type**, 
+Symplectic Questions Seminar, ETH Zurich, Switzerland
+December 2, 2025
+
 
 **An Introduction to Gauge/Gravity Duality**, 
 Zurich Undergraduate Colloquium in Computational Sciences, Mathematics and Physics (ZUCCMAP), 
