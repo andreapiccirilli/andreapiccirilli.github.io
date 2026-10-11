@@ -44,7 +44,7 @@ December 2024
 # Conferences
 
 ### Upcoming Conferences
-
+Nothing planned so far.
 
 ### Conferences Attended
 
