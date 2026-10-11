@@ -11,7 +11,7 @@ photo: Screenshot 2026-09-15 225123.png  # place your photo in images/
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: ""
+  google_scholar: "https://scholar.google.com/citations?user=LkUaqDIAAAAJ&hl=en"
   github: ""
   researchgate: ""
   orcid: ""
