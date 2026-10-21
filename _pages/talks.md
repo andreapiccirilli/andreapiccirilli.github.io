@@ -13,13 +13,14 @@ permalink: /talks and conferences/
 
 **From Geometry to Algebra: Lagrangian Floer Theory**
 CUSO Graduate Colloquium, Brig, Switzerland, 
-October 22, 2026
+October 23, 2026
+
+
+### Past Talks
 
 **Closed- and Open-string Schubert calculus via quaternionic Lagrangians**
 University of Neuchâtel, Switzerland, 
 October 15, 2026
-
-### Past Talks
 
 **Exotic Lagrangian Tori in the Three-Dimensional Quadric**,
 Contemporary Topics in Hamiltonian Dynamics, Les Diablerets, Switzerland, 
@@ -44,7 +45,7 @@ December 2024
 # Conferences
 
 ### Upcoming Conferences
-Nothing planned so far.
+Nothing planned at the moment.
 
 ### Conferences Attended
 
