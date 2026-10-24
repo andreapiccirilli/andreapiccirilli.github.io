@@ -11,12 +11,11 @@ permalink: /talks and conferences/
 ### Upcoming Talks
 
 
+### Past Talks
+
 **From Geometry to Algebra: Lagrangian Floer Theory**
 CUSO Graduate Colloquium, Brig, Switzerland, 
 October 23, 2026
-
-
-### Past Talks
 
 **Closed- and Open-string Schubert calculus via quaternionic Lagrangians**
 University of Neuchâtel, Switzerland, 
