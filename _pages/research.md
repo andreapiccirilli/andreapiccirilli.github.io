@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 # Research
+Some topics I enjoy thinking about are: 
 
 <div class="research-grid">
 
