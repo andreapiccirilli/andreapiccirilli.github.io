@@ -2,20 +2,7 @@
 # Each entry needs: course, title
 # Optional: term, role, url, description
 
-- course: Physics 1, 2, 3
-  title: The Feynman Lectures on Physics
-  term: 1961-63
-  url: https://www.feynmanlectures.caltech.edu/
+- course: Fourier Analysis
+  title: Teaching Assistant
+  term: 2026
 
-- course: Physics 219
-  title: Quantum Computing
-  term: 1986
-
-- course: Graduate Seminar
-  title: Quantum Electrodynamics
-  term: 1953-88
-
-- course: Physics X
-  title: Informal undergraduate Q&A sessions
-  term: 1961-78
-  description: Weekly sessions where undergraduates could ask about anything in physics.
