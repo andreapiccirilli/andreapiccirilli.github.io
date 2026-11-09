@@ -3,10 +3,12 @@
 # Optional: term, role, url, description
 
 
-Fall 2026
+# Fall 2026
 - course: Fourier Analysis
   title: Teaching Assistant for the course
+  term: 2026
 
 - course: Student seminar on Alegbraic Geometry
   title: Teacher
+  term: 2026
 
