@@ -19,7 +19,7 @@ Some topics I enjoy thinking about are:
 
 <div class="research-card">
 <div class="research-body">
-<h2 class="research-title">Lagrangian Floer theory and Lagrangian Topology</h2>
+<h2 class="research-title">Floer theory and Lagrangian Topology</h2>
 </div>
 </div>
 
