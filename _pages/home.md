@@ -9,7 +9,9 @@ permalink: /
 I am a PhD candidate in Mathematics at the Chair of Dynamical Systems of University of Neuchâtel, under the supervision of Felix Schlenk. 
 
 My main research area is symplectic topology, a branch of mathematics at the intersection of algebraic geometry, differential geometry and mathematical physics.
+
 In particular, I am interested in Lagrangian submanifolds, and their role in mirror symmetry.
+
 You can find more details on the Research part of the website.
 
 # Education
