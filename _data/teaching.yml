@@ -2,7 +2,11 @@
 # Each entry needs: course, title
 # Optional: term, role, url, description
 
+
+# Fall 2026
 - course: Fourier Analysis
-  title: Teaching Assistant
-  term: 2026
+  title: Teaching Assistant for the course
+
+- course: Student seminar on Alegbraic Geometry
+  title: Teacher
 
